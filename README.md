@@ -3,6 +3,8 @@ A repository for dark themes made by many users.
 
 I want to ensure that any of the themes bellow actually works, so if you want to contribute please make sure **the themes actually work** (maybe at most they are in the process of being updated.
 
+###### TO DO: MAKE IT MORE AWESOME
+
 # The list
 + Discourse
   + [Discourse Dark](https://raw.githubusercontent.com/StylishThemes/Discourse-Dark/master/discourse-dark.user.css) by [StylishThemes](https://github.com/StylishThemes)
