@@ -1,5 +1,7 @@
 # DarkWeb
-A repository for dark themes made by many users.
+A repository for dark themes made by many users. 
+
+I want to ensure that any of the themes bellow actually works, so if you want to contribute please make sure **the themes actually work** (maybe at most they are in the process of being updated.
 
 # The list
 + Discourse
@@ -37,6 +39,7 @@ A repository for dark themes made by many users.
   + [Vidme DeepDark](https://rawgit.com/RaitaroH/Vidme-DeepDark/master/VidmeDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + WhatsApp
   + [WhatsApp DeepDark](https://rawgit.com/RaitaroH/WhatsApp-DeepDark/master/WhatsAppDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
+  + [onyx](https://rawgit.com/vednoc/onyx/master/WhatsApp.user.css) by [vednoc](https://github.com/vednoc)
 + Wikipedia
   + [Wikipedia Dark](https://raw.githubusercontent.com/StylishThemes/Wikipedia-Dark/master/wikipedia-dark.css) by [StylishThemes](https://github.com/StylishThemes)
 + YouTube
@@ -47,3 +50,4 @@ A repository for dark themes made by many users.
 + RaitaroHikami: [github](https://github.com/RaitaroH), [openusercss](https://openusercss.org/profile/5a433adb2ef4870b000695a5), [userstyles](https://userstyles.org/users/377182).
 + hyperfekt: [github](https://github.com/hyperfekt).
 + StylishThemes: [github](https://github.com/StylishThemes), [userstyles](https://userstyles.org/users/35365).
++ vednoc: [github](https://github.com/vednoc).
