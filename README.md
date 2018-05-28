@@ -18,6 +18,8 @@ I want to ensure that any of the themes bellow actually works, so if you want to
   + [KissAnime DeepDark](https://rawgit.com/RaitaroH/KissAnime-DeepDark/master/KissAnimeDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + LinuxMintBlog
   + [LinuxMintBlog DeepDark](https://rawgit.com/RaitaroH/LinuxMint_Blog-Deepdark/master/LinuxMintBlog-DeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
++ Medium
+  + [Darker Medium](https://raw.githubusercontent.com/Mottie/Darker-Medium/master/darker-medium.user.css) by [Mottie](https://github.com/Mottie)
 + MyAnimeList
   + [MyAnimeList DeepDark](https://rawgit.com/RaitaroH/MyAnimeList-DeepDark/master/MyAnimeListDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
   + [MAL_AnimePlus DeepDark](https://raw.githubusercontent.com/RaitaroH/MAL_AnimePlusGraph-DeepDark/master/MAL_AnimePlusGraphDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
@@ -50,4 +52,5 @@ I want to ensure that any of the themes bellow actually works, so if you want to
 + RaitaroHikami: [github](https://github.com/RaitaroH), [openusercss](https://openusercss.org/profile/5a433adb2ef4870b000695a5), [userstyles](https://userstyles.org/users/377182).
 + hyperfekt: [github](https://github.com/hyperfekt).
 + StylishThemes: [github](https://github.com/StylishThemes), [userstyles](https://userstyles.org/users/35365).
+  + Mottie: [github](https://github.com/Mottie). (might even say the same but...)
 + vednoc: [github](https://github.com/vednoc).
