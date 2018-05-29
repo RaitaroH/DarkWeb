@@ -35,10 +35,13 @@ I want to ensure that any of the themes bellow actually works, so if you want to
   + [Qwant DeepDark](https://raw.githubusercontent.com/RaitaroH/Qwant-DeepDark/master/Qwant.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Stylus
   + [Stylus DeepDark](https://rawgit.com/RaitaroH/Stylus-DeepDark/master/StylusDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
++ Travis CI
+  + [travis ci dark extended](https://raw.githubusercontent.com/the-j0k3r/travis-ci-dark-extended/master/travis-ci-dark-extended.css) by [the-j0k3r](https://github.com/the-j0k3r)
 + Twitter
-  + [Twitter Desaturated](https://raw.githubusercontent.com/hyperfekt/twitter-styles/master/twitter_desaturated.user.css) by [hyperfekt](https://github.com/hyperfekt)
+  + [Twitter Desaturated](https://raw.githubusercontent.com/hyperfekt/twitter-styles/master/twitter_desaturated.user.css) and [Twitter Square](https://raw.githubusercontent.com/hyperfekt/twitter-styles/master/twitter_square.user.css) by [hyperfekt](https://github.com/hyperfekt)
 + Userstyles
   + [Userstyles DeepDark](https://rawgit.com/RaitaroH/Userstyles-DeepDark/master/UserstylesDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
+  + [userstyles inspired dark](https://raw.githubusercontent.com/the-j0k3r/userstyles-inspired-dark/master/userstyles-inspired-dark.css) by [the-j0k3r](https://github.com/the-j0k3r)
 + Vidme
   + [Vidme DeepDark](https://rawgit.com/RaitaroH/Vidme-DeepDark/master/VidmeDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + WhatsApp
@@ -52,7 +55,8 @@ I want to ensure that any of the themes bellow actually works, so if you want to
   
 # Authors featured:
 + RaitaroHikami: [github](https://github.com/RaitaroH), [openusercss](https://openusercss.org/profile/5a433adb2ef4870b000695a5), [userstyles](https://userstyles.org/users/377182).
-+ hyperfekt: [github](https://github.com/hyperfekt).
++ hyperfekt: [github](https://github.com/hyperfekt) ,[openusercss](https://openusercss.org/theme/5abd48b070bc4a0b00903b9c)
 + StylishThemes: [github](https://github.com/StylishThemes), [userstyles](https://userstyles.org/users/35365).
   + Mottie: [github](https://github.com/Mottie). (might even say the same but...)
++ the-j0k3r: [github](https://github.com/the-j0k3r), [userstyles](https://userstyles.org/users/634176).
 + vednoc: [github](https://github.com/vednoc).
