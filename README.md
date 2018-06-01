@@ -10,10 +10,12 @@ I want to ensure that any of the themes bellow actually works, so if you want to
   + [Discourse Dark](https://raw.githubusercontent.com/StylishThemes/Discourse-Dark/master/discourse-dark.user.css) by [StylishThemes](https://github.com/StylishThemes)
 + DuckDuckGo
   + [DuckDuckGo DeepDark](https://rawgit.com/RaitaroH/DuckDuckGo-DeepDark/master/DuckDuckGoDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
-+ Github
++ GitHub
   + [GitHub Dark](https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/github-dark.user.css) by [StylishThemes](https://github.com/StylishThemes)
 + Google
   + [google dark](https://raw.githubusercontent.com/hyperfekt/google-dark/master/search/search.user.css) by [hyperfekt](https://github.com/hyperfekt)
++ Gitter IM
+  + [Gitter Inspired Dark](https://github.com/style-it-themes/gitter-inspired-dark) by [Style-It Themes: the-j0k3r](https://github.com/style-it-themes)
 + Jisho
   + [Jisho DeepDark](https://rawgit.com/RaitaroH/Jisho-DeepDark/master/JishoDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Kissanime
@@ -36,12 +38,13 @@ I want to ensure that any of the themes bellow actually works, so if you want to
 + Stylus
   + [Stylus DeepDark](https://rawgit.com/RaitaroH/Stylus-DeepDark/master/StylusDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Travis CI
-  + [travis ci dark extended](https://raw.githubusercontent.com/the-j0k3r/travis-ci-dark-extended/master/travis-ci-dark-extended.css) by [the-j0k3r](https://github.com/the-j0k3r)
+  + [travis ci dark extended](https://github.com/style-it-themes/travis-ci-dark-extended) by [Style-It Themes: the-j0k3r](https://github.com/style-it-themes)
+  >Note: Style too large for Userstyles.org site, install manually for time being. 
 + Twitter
   + [Twitter Desaturated](https://raw.githubusercontent.com/hyperfekt/twitter-styles/master/twitter_desaturated.user.css) and [Twitter Square](https://raw.githubusercontent.com/hyperfekt/twitter-styles/master/twitter_square.user.css) by [hyperfekt](https://github.com/hyperfekt)
 + Userstyles
   + [Userstyles DeepDark](https://rawgit.com/RaitaroH/Userstyles-DeepDark/master/UserstylesDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
-  + [userstyles inspired dark](https://raw.githubusercontent.com/the-j0k3r/userstyles-inspired-dark/master/userstyles-inspired-dark.css) by [the-j0k3r](https://github.com/the-j0k3r)
+  + [userstyles inspired dark](https://github.com/style-it-themes/userstyles-inspired-dark) by [Style-It Themes: the-j0k3r](https://github.com/style-it-themes)
 + Vidme
   + [Vidme DeepDark](https://rawgit.com/RaitaroH/Vidme-DeepDark/master/VidmeDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + WhatsApp
@@ -58,5 +61,5 @@ I want to ensure that any of the themes bellow actually works, so if you want to
 + hyperfekt: [github](https://github.com/hyperfekt) ,[openusercss](https://openusercss.org/theme/5abd48b070bc4a0b00903b9c)
 + StylishThemes: [github](https://github.com/StylishThemes), [userstyles](https://userstyles.org/users/35365).
   + Mottie: [github](https://github.com/Mottie). (might even say the same but...)
-+ the-j0k3r: [github](https://github.com/the-j0k3r), [userstyles](https://userstyles.org/users/634176).
++ the-j0k3r: [github](https://github.com/the-j0k3r), [style-it themes](https://github.com/style-it-themes), [userstyles](https://userstyles.org/users/634176).
 + vednoc: [github](https://github.com/vednoc).
