@@ -27,6 +27,8 @@ I want to ensure that any of the themes bellow actually works, so if you want to
 + MyAnimeList
   + [MyAnimeList DeepDark](https://rawgit.com/RaitaroH/MyAnimeList-DeepDark/master/MyAnimeListDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
   + [MAL_AnimePlus DeepDark](https://raw.githubusercontent.com/RaitaroH/MAL_AnimePlusGraph-DeepDark/master/MAL_AnimePlusGraphDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
++ Masteranime
+  + [Masteranime DeepDark](https://raw.githubusercontent.com/RaitaroH/Masteranime-DeepDark/master/Masteranime-DeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + StackOverflow
   + [StackOverflow Dark](https://github.com/StylishThemes/Stackoverflow-Dark/raw/master/stackoverflow-dark.user.css) by [StylishThemes](https://github.com/StylishThemes)
 + OpenUserCss
