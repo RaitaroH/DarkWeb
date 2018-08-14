@@ -10,12 +10,14 @@ I want to ensure that any of the themes bellow actually works, so if you want to
   + [Discourse Dark](https://raw.githubusercontent.com/StylishThemes/Discourse-Dark/master/discourse-dark.user.css) by [StylishThemes](https://github.com/StylishThemes)
 + DuckDuckGo
   + [DuckDuckGo DeepDark](https://rawgit.com/RaitaroH/DuckDuckGo-DeepDark/master/DuckDuckGoDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
++ Gitter IM
+  + [Gitter Inspired Dark](https://github.com/style-it-themes/gitter-inspired-dark) by [Style-It Themes: the-j0k3r](https://github.com/style-it-themes)
 + GitHub
   + [GitHub Dark](https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/github-dark.user.css) by [StylishThemes](https://github.com/StylishThemes)
 + Google
   + [google dark](https://raw.githubusercontent.com/hyperfekt/google-dark/master/search/search.user.css) by [hyperfekt](https://github.com/hyperfekt)
-+ Gitter IM
-  + [Gitter Inspired Dark](https://github.com/style-it-themes/gitter-inspired-dark) by [Style-It Themes: the-j0k3r](https://github.com/style-it-themes)
++ Gmail
+  + [Gmail DeepDark](https://rawgit.com/RaitaroH/Gmail-DeepDark/master/GmailDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Jisho
   + [Jisho DeepDark](https://rawgit.com/RaitaroH/Jisho-DeepDark/master/JishoDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Kissanime
@@ -29,16 +31,18 @@ I want to ensure that any of the themes bellow actually works, so if you want to
   + [MAL_AnimePlus DeepDark](https://raw.githubusercontent.com/RaitaroH/MAL_AnimePlusGraph-DeepDark/master/MAL_AnimePlusGraphDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Masteranime
   + [Masteranime DeepDark](https://raw.githubusercontent.com/RaitaroH/Masteranime-DeepDark/master/Masteranime-DeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
++ Syncthing
+  + [Syncthing DeepDark](https://raw.githubusercontent.com/RaitaroH/Syncthing-DeepDark/master/SyncthingDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + StackOverflow
   + [StackOverflow Dark](https://github.com/StylishThemes/Stackoverflow-Dark/raw/master/stackoverflow-dark.user.css) by [StylishThemes](https://github.com/StylishThemes)
++ Stylus
+  + [Stylus DeepDark](https://rawgit.com/RaitaroH/Stylus-DeepDark/master/StylusDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + OpenUserCss
   + [OpenUserCss DeepDark](https://rawgit.com/OpenUserCSS/OpenUserCSS-DeepDark/master/OpenUserCSSDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Quora
   + [Quora Dark](https://raw.githubusercontent.com/StylishThemes/Quora-Dark/master/quora-dark.css) by [StylishThemes](https://github.com/StylishThemes)
 + Qwant
   + [Qwant DeepDark](https://raw.githubusercontent.com/RaitaroH/Qwant-DeepDark/master/Qwant.user.css) by [RaitaroH](https://github.com/RaitaroH)
-+ Stylus
-  + [Stylus DeepDark](https://rawgit.com/RaitaroH/Stylus-DeepDark/master/StylusDeepDark.user.css) by [RaitaroH](https://github.com/RaitaroH)
 + Travis CI
   + [travis ci dark extended](https://github.com/style-it-themes/travis-ci-dark-extended) by [Style-It Themes: the-j0k3r](https://github.com/style-it-themes)
   >Note: Style too large for Userstyles.org site, install manually for time being. 
