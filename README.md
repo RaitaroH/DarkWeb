@@ -1,5 +1,3 @@
-## This repository has moved to [Gitlab](https://gitlab.com/RaitaroH/DarkWeb).
-
 # DarkWeb
 A repository for dark themes made by many users. 
 
